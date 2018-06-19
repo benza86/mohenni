@@ -1,6 +1,6 @@
 [
   {
-     "title":"REPLAYS",
+     "title":"Vidéos",
     "drawable":"",
     "submenu":"",
     "iap":false,
@@ -71,27 +71,7 @@
 
         ]
       }
-	  	  ,
-	  	  	   {
-        "title":"Docu2",
-        "provider":"youtube",
-        "arguments":[
-          "UCIxIJWyjXPi4c8IxRZIqnwg",
-          "channel"
-
-        ]
-      }
-	  	  ,
-	  	  	   {
-        "title":"Doc&Doc",
-        "provider":"youtube",
-        "arguments":[
-          "UCTuEcje9UPP5qpnCkNcbX6w",
-          "channel"
-
-        ]
-      }
-   
+	     
   ]
   }
   ,
@@ -105,7 +85,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.knoozapps.myapp.docufr.SettingsFragment", "fragment"
+          "com.knoozapps.myapp.mohenni.SettingsFragment", "fragment"
         ]
       }
     ]
@@ -121,7 +101,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.knoozapps.myapp.docufr.SettingsFragment", "fragment"
+          "com.knoozapps.myapp.mohenni.SettingsFragment", "fragment"
         ]
       }
     ]

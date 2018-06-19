@@ -1,0 +1,145 @@
+[
+  {
+     "title":"REPLAYS",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+
+	 {
+        "title":"OM",
+        "provider":"youtube",
+        "arguments":[
+          "PLaGQXPkoq2ym1dferFSnMocpzjkotF8DX",
+          "playlist"
+
+        ]
+     },
+
+	        {
+        "title":"Coupe du monde",
+        "provider":"youtube",
+        "arguments":[
+          "LLpH6zd2mjaicUn4ONhRP0GQ",
+          "playlist"
+
+        ]
+      },
+	        {
+        "title":"Humour",
+        "provider":"youtube",
+        "arguments":[
+          "PLaGQXPkoq2ylQ9xu33JERjwbOibjEU10S",
+          "playlist"
+
+        ]
+      },
+      {
+        "title":"Polémique",
+        "provider":"youtube",
+        "arguments":[
+          "PLaGQXPkoq2ynMtn0GGLfK-zRo1UuMsYQ5",
+          "playlist"
+
+        ]
+      },
+	    {
+        "title":"Politique",
+        "provider":"youtube",
+        "arguments":[
+          "PLaGQXPkoq2ymPlKg7Dla_6y0yfNU28nfI",
+          "playlist"
+
+        ]
+      },
+	  	  	   {
+        "title":"Clash",
+        "provider":"youtube",
+        "arguments":[
+          "PLaGQXPkoq2ylJ2PoeXyoN_jSzXnsHYTfT",
+          "playlist"
+
+        ]
+      }
+	  ,
+	  	  	   {
+        "title":"Divers",
+        "provider":"youtube",
+        "arguments":[
+          "PLaGQXPkoq2ykFZXWYWc5DALW3y2V54CTj",
+          "playlist"
+
+        ]
+      }
+	  	  ,
+	  	  	   {
+        "title":"Docu2",
+        "provider":"youtube",
+        "arguments":[
+          "UCIxIJWyjXPi4c8IxRZIqnwg",
+          "channel"
+
+        ]
+      }
+	  	  ,
+	  	  	   {
+        "title":"Doc&Doc",
+        "provider":"youtube",
+        "arguments":[
+          "UCTuEcje9UPP5qpnCkNcbX6w",
+          "channel"
+
+        ]
+      }
+   
+  ]
+  }
+  ,
+	  {
+    "title":"Trop de Pubs??",
+    "drawable":"",
+    "submenu":"autres",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.knoozapps.myapp.docufr.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+	,
+  {
+    "title":"DocuFR NoADS bientôt  disponible",
+    "drawable":"",
+    "submenu":"autres",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.knoozapps.myapp.docufr.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+	,
+  {
+    "title":"A propos",
+    "drawable":"",
+    "submenu":"autres",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.knoozapps.myapp.mohenni.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
